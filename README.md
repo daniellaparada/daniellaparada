@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on Statistical Analysis at Instituto de Cálculo, FCEN UBA & CONICET.
 - 🌱 I’m currently learning to develop statistical packages.
 - 👯 I want to collaborate on statistical outreach, reproducible research, and open-source projects.
-- 📫 How to reach me: dparada@dm.uba.ar
 - 😄 Pronouns: she/her
+- ⚡ Fun fact: I used to be (still am!) a math editor; so I have a very deep crush on LaTeX.
 <!--
 **daniellaparada/daniellaparada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
