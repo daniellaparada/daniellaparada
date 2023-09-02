@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Statistical Analysis at Instituto de Cálculo, FCEN UBA & CONICET.
+- 🌱 I’m currently learning to develop statistical packages.
+- 👯 I want to collaborate on statistical outreach, reproducible research, and open-source projects.
+- 📫 How to reach me: dparada@dm.uba.ar
+- 😄 Pronouns: she/her
 <!--
 **daniellaparada/daniellaparada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
